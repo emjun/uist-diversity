@@ -1,0 +1,75 @@
+Session Title,Paper Title,First Name,Middle Initial,Last Name,Email
+Touch,Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues,Yi-Chi,,Liao,yi-chi.liao@aalto.fi
+Touch,CommandBoard: Creating a General-Purpose Command Gesture Input Space for Soft Keyboard,Jessalyn,,Alvina,alvina@lri.fr
+Touch,Characterizing Latency in Touch and Button-Equipped Interactive Systems,GéRy,,Casiez,gery.casiez@univ-lille.fr
+Touch,WhichFingers: Identifying Fingers on Touch Surfaces and Keyboards Using Vibration Sensors,Damien,,Masson,dmasson@uwaterloo.ca
+Touch,Carpacio: Repurposing Capacitive Sensors to Distinguish Driver and Passenger Touches on In-Vehicle Screens,Edward,Jay,Wang,ejaywang@eng.ucsd.edu
+Creativity Support Tools,Learning Visual Importance for Graphic Designs and Data Visualizations,Zoya,,Bylinskii,zoya.gavr@gmail.com
+Creativity Support Tools,ImAxes: Immersive Axes as Embodied Affordances for Interactive Multivariate Data Visualisation,Maxime,,Cordeil,maxime.cordeil@monash.edu
+Creativity Support Tools,Triggering Artwork Swaps for Live Animation,Nora,S,Willett,noraw@cs.princeton.edu
+Creativity Support Tools,Secondary Motion for Performed 2D Animation,Nora,S,Willett,noraw@cs.princeton.edu
+Haptics,HapticClench: Investigating Squeeze Sensations using Memory Alloys,Aakar,,Gupta,aakarg@fb.com
+Haptics,Grabity: A Wearable Haptic Interface for Simulating Weight and Grasping in Virtual Reality,Inrak,,Choi,irchoi@stanford.edu
+Haptics,Frictio: Passive Kinesthetic Force Feedback for Smart Ring Output,Teng,,Han,hanteng@iscas.ac.cn
+Haptics,MagTics: Flexible and Thin Form Factor Magnetic Actuators for Dynamic and Wearable Haptic Feedback,Fabrizio,,Pece,fabrizio.pece@inf.ethz.ch
+Eyes and Hands,EyeScout: Active Eye Tracking for Position and Movement Independent Gaze Interaction with Large Public Displays,Mohamed,,Khamis,mohamed.khamis@ifi.lmu.de
+Eyes and Hands,MatchPoint: Spontaneous Spatial Coupling of Body Movement for Touchless Pointing,Christopher,,Clarke,c.clarke1@lancaster.ac.uk
+Eyes and Hands,Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery,Xucong,,Zhang,xczhang@mpi-inf.mpg.de
+Physical Interfaces,A Modular Smartphone for Lending,Teddy,,Seyed,teddy.seyed@ucalgary.ca
+Physical Interfaces,You as a Puppet: Evaluation of Telepresence User Interface for Puppetry,Mose,,Sakashita,mose.sakashita@gmail.com
+Physical Interfaces,Reinventing the Wheel: Transforming Steering Wheel Systems for Autonomous Vehicles,Brian,,Mok,brianmok@stanford.edu
+Physical Interfaces,Thermal-Comfort Design of Personalized Casts,Xiaoting,,Zhang,xt.zhang@sub.siat.ac.cn 
+360 Video,Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a 360 Video Using Spatial Picture-in-Picture Previews,Yung-Ta,,Lin,lynda@cmlab.csie.ntu.edu.tw
+360 Video,CollaVR: Collaborative In-Headset Review for VR Video,Cuong,,Nguyen,cuong3@pdx.edu
+360 Video,Panning and Zooming High-Resolution Panoramas in Virtual Reality Devices,Huiwen,,Chang,huiwenc@cs.princeton.edu
+360 Video,Shot Orientation Controls for Interactive Cinematography with 360 Video,Amy,,Pavel,apavel@cs.cmu.edu
+Circuits,Bifröst : Visualizing and Checking Behavior of Embedded Systems across Hardware and Software-,Will,,Mcgrath,ddrew73@berkeley.edu
+Circuits,CircuitSense: Automatic Sensing of Physical Circuits and Generation of Virtual Circuits to Support Software Tools.,Te-Yen,,Wu,r04922078@ntu.edu.tw
+Circuits,Scanalog: Interactive Design and Debugging of Analog Circuits with Programmable Hardware,Evan,N,Strasnick,estrasni@stanford.edu
+Circuits,Trigger-Action-Circuits: Leveraging Generative Design to Enable Novices to Design and Build Circuitry,Fraser,,Anderson,fraser.anderson@autodesk.com
+Circuits,CurrentViz: Sensing and Visualizing Electric Current of Breadboarded Circuits,Te-Yen,,Wu,r04922078@ntu.edu.tw
+"Pointing, Pens & Text","Reflector: Distance-Independent, Private Pointing on a Reflective Screen",Jong-In,,Lee,yi-jong-in@kaist.ac.kr
+"Pointing, Pens & Text",DodecaPen: Accurate 6DoF Tracking of a Passive Stylus,Po-Chen,,Wu,pcwu@media.ee.ntu.edu.tw
+"Pointing, Pens & Text",FlexStylus: Leveraging Bend Input for Pen Interaction,Nicholas,,Fellion,nicholas.fellion@carleton.ca
+"Pointing, Pens & Text",(TOCHI) Beyond Just Text: Semantic Emoji Similarity Modeling to Support Expressive Communication,Henning,,Pohl,henning@cs.aau.dk
+"Pointing, Pens & Text",SmoothMoves: Smooth Pursuits Head Movements for Augmented Reality,Augusto,,Esteves,a.esteves@napier.ac.uk
+3D Sketching,SweepCanvas: Sketch-based 3D Prototyping on an RGB-D Image,Yuwei,,Li,liyw@shanghaitech.edu.cn
+3D Sketching,DreamSketch: Early Stage 3D Design Explorations with Sketching and Generative Design,Rubaiat,Habib,Kazi,rhabib@adobe.com
+3D Sketching,Interactive Room Capture on 3D-Aware Mobile Devices,Aditya,,Sankar,aditya@cs.washington.edu
+3D Sketching,SceneCtrl: Mixed Reality Enhancement via Efficient Scene Editing,Ya-Ting,,Yue,ytyue@cs.hku.hk
+Fabrication,FoamSense: Design of three dimensional soft sensors with porous materials,Satoshi,,Nakamaru,s.nakamaru@keio.jp
+Fabrication,AirCode: Unobtrusive Physical Tags for Digital Fabrication,Dingzeyu,,Li,dli@cs.columbia.edu
+Fabrication,BlowFab: Rapid Prototyping for Rigid and Reusable Objects using Inflation of Laser-cut Surfaces,Junichi,,Yamaoka,yamajun@sfc.keio.ac.jp
+Fabrication,"StrutModeling: A Low-Fidelity Construction Kit to Iteratively Model, Test, and Adapt 3D Objects",Danny,,Leen,danny.leen@luca-arts.be
+Alt.Modalities,Designing and Evaluating Livefonts,Danielle,,Bragg,dkbragg@cs.washington.edu 
+Alt.Modalities,Markit and Talkit: A Low-Barrier Toolkit to Augment 3D Printed Models with Audio Annotations,Lei,,Shi,ls776@cornell.edu
+Alt.Modalities,INVISO: A Cross-platform User Interface for Creating Virtual Sonic Environments,Anil,,Camci,acamci@umich.edu
+Alt.Modalities,Neuroanatomical Correlates of Perceived Usability,Chi,Thanh,Vi,C.Vi@sussex.ac.uk
+Alt.Modalities,AutoDub: Automatic Redubbing for Voiceover Editing,Shrikant,,Venkataramani,svnktrm2@illinois.edu
+Phones & Watches,RetroShape: Leveraging Rear-Surface Shape Displays for 2.5D Interaction on Smartwatches,Da-Yuan,,Huang,ruizhen.guo.gr@dartmouth.edu
+Phones & Watches,Pyro: Thumb-Tip Gesture Recognition Using Pyroelectric Infrared Sensing,Jun,,Gong,jun.gong.gr@dartmouth.edu
+Phones & Watches,"SmartSleeve: Real-time Sensing of Surface and Deformation Gestures on Flexible, Interactive Textiles, using a Hybrid Gesture Detection Pipeline",Patrick,,Parzer,patrick.parzer@fh-hagenberg.at
+Phones & Watches,SoundCraft: Enabling Spatial Interactions on Smartwatches using Hand Generated Acoustics,Teng,,Han,hanteng@cs.umanitoba.ca
+Phones & Watches,SensIR: Detecting Hand Gestures with a Wearable Bracelet using Infrared Transmission and Reflection,Jess,,Mcintosh,Jess.Mcintosh22@gmail.com
+Displays,Qoom: An Interactive Omnidirectional Ball Display,Shio,,Miyafuji,miyafuji@m.titech.ac.jp
+Displays,HeatSpace: Automatic Placement of Displays by Empirical Analysis of User Behavior,Andreas,,Fender,andreasfender@cs.au.dk
+Displays,Pepper's Cone: An Inexpensive Do-It-Yourself 3D Display,Xuan,,Luo,xuanluo@cs.washington.edu
+Displays,iSphere: Self-Luminous Spherical Drone Display,Wataru,,Yamada,wataruyamada@acm.org
+Flexible Sensing,A Capacitive Touch Sensing Technique with Series-connected Sensing Electrodes,Hiroyuki,,Manabe,manabehiroyuki@acm.org
+Flexible Sensing,Data Storage and Interaction using Magnetized Fabric,Justin,,Chan,jucha@cs.washington.edu
+Flexible Sensing,iSoft: A Customizable Soft Sensor with Real-time Continuous Contact and Stretching Sensing,Sang-Ho,,Yoon,yoon87@purdue.edu
+Flexible Sensing,CanalSense: Face-Related Movement Recognition System based on Sensing Air Pressure in Ear Canals,Toshiyuki,,Ando,ando@iplab.cs.tsukuba.ac.jp
+Code/education,DS.js: Turn Any Webpage into an Example-Centric Live Programming Environment for Learning Data Science,Xiong,,Zhang,xzhang92@cs.rochester.edu
+Code/education,Torta: Generating Mixed-Media GUI and Command-Line App Tutorials Using Operating-System-Wide Activity Tracing,Alok,,Mysore,amysore@eng.ucsd.edu
+Code/education,Codestrates: Literate Computing with Webstrates,Roman,,RäDle,roman.raedle@cc.au.dk
+Code/education,ZIPT: Zero-Integration Performance Testing of Mobile App Designs,Biplab,,Deka,deka2@illinois.edu
+Code/education,Omnicode: A Novice-Oriented Live Programming Environment with Always-On Run-Time Value Visualizations,Hyeonsu,,Kang,hyk149@eng.ucsd.edu
+VR/AR,NaviFields: Relevance fields for adaptive VR navigation,Roberto,Antonio Montano,Murillo,rm462@sussex.ac.uk
+VR/AR,Erg-O: Ergonomic Optimization of Immersive Virtual Environments,Roberto,Antonio Montano,Murillo,rm462@sussex.ac.uk
+VR/AR,More than a Feeling: The MiFace Framework for Defining Facial Communication Mappings,Crystal,,Butler,cb2610@nyu.edu
+VR/AR,One Reality: Augmenting How the Physical World is Experienced by combining Multiple Mixed Reality Modalities,Joan,Sol,Roo,joan-sol.roo@inria.fr
+VR/AR,Mutual Human Actuation,Lung-Pan,,Cheng,lungpan.cheng@hpi.uni-potsdam.de
+Crowd,WearMail: On-the-Go Access to Information in Your Email with a Privacy-Preserving Human Computation Workflow,Saiganesh,,Swaminathan,saiganes@cs.cmu.edu
+Crowd,SketchExpress: Remixing Animations for More Effective Crowd-Powered Prototyping of Interactive Interfaces,Sang-Won,,Lee,snaglee@umich.edu 
+Crowd,Crowd Research: Open and Scalable University Laboratories,Rajan,,Vaish,rvaish@cs.stanford.edu
+Crowd,RICO: A Mobile App Dataset for Building Data-Driven Design Applications,Biplab,,Deka,deka2@illinois.edu
